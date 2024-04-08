@@ -1,9 +1,11 @@
 # JSON Parser
 JSON parser with JUnit tests
 
+
 # Requirements
--Java 20
--Git
+- Java 20
+- Git
+
 
 # How to run the application
 ### Intellij IDEA
