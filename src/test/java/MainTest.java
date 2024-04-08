@@ -1,7 +1,5 @@
 import org.json.parser.Main;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
